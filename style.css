@@ -2,6 +2,20 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+select {
+  height: fit-content;
+}
+
+h1 {
+  margin-top: 0;
+}
+
 .info-container {
   max-width: 800px;
   margin: 30px auto;
