@@ -1,0 +1,29 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.info-container {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section-header,
+.point {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.point {
+  margin-bottom: 5px;
+}
+
+.footer {
+  margin-top: 20px;
+}
+
+.footer a {
+  color: #007bff;
+}
